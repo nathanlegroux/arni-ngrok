@@ -1,0 +1,39 @@
+
+    tunnels:
+
+      panel:
+        subdomain: panel
+        proto:
+          http: 80
+
+      p25565:
+        proto:
+          tcp: 25565
+
+      p25566:
+        proto:
+          tcp: 25566
+
+      p25567:
+        proto:
+          tcp: 25567
+
+      p25568:
+        proto:
+          tcp: 25568
+
+      p25569:
+        proto:
+          tcp: 25569
+
+      p25570:
+        proto:
+          tcp: 25570
+
+      p25571:
+        proto:
+          tcp: 25571
+
+      p25572:
+        proto:
+          tcp: 25572
